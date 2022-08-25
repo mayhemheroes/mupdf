@@ -1,0 +1,4 @@
+project: PROJECT
+target: pdf_fuzzer
+cmds:
+- cmd: /out/pdf_fuzzer
